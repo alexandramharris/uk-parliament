@@ -1,0 +1,18 @@
+export const partyColors = {
+    "Labour": "#E0460099",
+    "Conservative": "#2896B499",
+    "Liberal Democrat": "#F28D0099",
+    "Labour (Co-op)": "#E0460099",
+    "Independent": "#D9D9D9",
+    "Scottish National Party": "#FDE05399",
+    "Sinn Féin": "#D9D9D9",
+    "Democratic Unionist Party": "#D9D9D9",
+    "Reform UK": "#35C9A299",
+    "Plaid Cymru": "#D9D9D9",
+    "Green Party": "#299F4F99",
+    "Social Democratic & Labour Party": "#D9D9D9",
+    "Ulster Unionist Party": "#D9D9D9",
+    "Traditional Unionist Voice": "#D9D9D9",
+    "Alliance": "#D9D9D9",
+    "Speaker": "#D9D9D9",
+  };

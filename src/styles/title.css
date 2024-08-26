@@ -1,0 +1,48 @@
+
+.title-grid {
+    display: grid;
+    grid-template-rows: repeat(4, auto);
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: left;
+  }
+  
+  .title-date {
+    font-family: 'Times New Roman' !important ;
+    font-size: 16px;
+    padding: 0 20px;
+    margin-bottom: 8px;
+}
+  
+.title-main {
+    font-size: 4rem;
+}
+
+@media (max-width: 640px) {
+    .title-main {
+        font-size: 2.5rem;
+    }
+}
+  
+  .title-author {
+    font-size: 20px;
+    font-style: italic;
+    padding: 0 20px;
+    margin-bottom: 24px;
+  }
+  
+  .title-category {
+    padding: 0 20px;
+  }
+  
+  .title-category span {
+    font-family: 'Times New Roman' !important ;
+    padding: 5px 14px 8px;
+    border: 1px solid #b8b8b8;
+    border-radius: 17px;
+    font-size: 18px;
+    display: inline-block;
+    line-height: 1.375rem;
+  }
+  
